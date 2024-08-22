@@ -8,6 +8,7 @@ class DbDempApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Load context");
 	}
 
 }
